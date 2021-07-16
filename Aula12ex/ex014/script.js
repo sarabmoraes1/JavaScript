@@ -12,7 +12,7 @@ if(hora >= 0 && hora < 12){
     //boa tarde!
     img.src = 'fototarde.png'
 } else {
-    //boa noite!
+    //boa noit!
     img.src = 'fotonoite.png'
 }
 
